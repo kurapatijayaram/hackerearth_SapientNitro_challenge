@@ -5,9 +5,8 @@
 
 ```shell
 npm install
-```
-```shell
-npm run lite
+npm run typings install
+npm start
 ```
 Then open the browser and goto http://localhost:9000
 
