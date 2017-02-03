@@ -9,5 +9,3 @@ npm run typings install
 npm start
 ```
 Then open the browser and goto http://localhost:9000
-
-I deployed this particular application @ https://www.jayaramk.in/challenge.html
